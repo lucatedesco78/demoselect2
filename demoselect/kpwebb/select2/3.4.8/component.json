@@ -1,0 +1,10 @@
+{
+  "name": "select2",
+  "version": "3.4.8",
+  "main": "select2.js",
+  "scripts": [
+    "select2.js"
+  ],
+  "repository": "components/kpwebb/select2/3.4.8",
+  "resolved": "d87da77f8480c556b40393c5046302658da3d915"
+}
